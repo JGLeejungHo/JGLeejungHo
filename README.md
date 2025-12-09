@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 
 -->
  ## 이정호  
-기계설계전공한 비전공자의 개발을 위한 경험
+ ## 기계설계를 전공한 비전공자의 개발을 위한 경험  
+   
 - 🔭 - I worked on …
   
 **2023.7.8 GIGDC** https://github.com/JGLeejungHo/GIGDC_Busan  
