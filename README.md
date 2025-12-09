@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 
 -->
-이정호  
+ ## 이정호  
 기계설계전공한 비전공자의 개발을 위한 경험
 - 🔭 - I worked on …
   
