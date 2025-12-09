@@ -14,7 +14,7 @@ Here are some ideas to get you started:
    
 **- 🔭 - I worked on …**
   
-**2023.7.8 GIGDC** https://github.com/JGLeejungHo/GIGDC_Busan  
+**2023.7.8 GIGDC(Global Indie Game Development Contest)** https://github.com/JGLeejungHo/GIGDC_Busan  
   
 **2025.7.8 Krafton Jungle Miniproject** [https://github.com/JGLeejungHo/jungle10-tetris ](https://github.com/JGLeejungHo/jungle-tetris)  
   
