@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on
-
-**2023.7.8 GIGDC** https://github.com/JGLeejungHo/GIGDC_Busan
-**2025.7.8 Krafton Jungle Miniproject** https://github.com/JGLeejungHo/jungle10-tetris
-**2025.11.29 Krafton Project: STACKGUYS** https://github.com/May-I-Game/stack-guys
+  
+**2023.7.8 GIGDC** https://github.com/JGLeejungHo/GIGDC_Busan  
+**2025.7.8 Krafton Jungle Miniproject** https://github.com/JGLeejungHo/jungle10-tetris  
+**2025.11.29 Krafton Project: STACKGUYS** https://github.com/May-I-Game/stack-guys  
 
 - 🌱 I’m currently learning ...
 ![Unity](https://img.shields.io/badge/Unity-6.0_LTS-black?style=flat-square&logo=unity)
