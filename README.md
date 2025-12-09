@@ -1,4 +1,4 @@
-## - Welcome to my profile, and thank you for visiting. 👋 ##
+** - Welcome to my profile, and thank you for visiting. 👋 **
 
 <!--
 **JGLeejungHo/JGLeejungHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 
 -->
-## 이정호 ##  
+** 이정호 **  
 ## 기계설계를 전공한 비전공자의 개발을 위한 경험  
    
 - 🔭 - I worked on …
