@@ -1,4 +1,4 @@
-## Hi! Thank you read My Profile 👋
+## - Welcome to my profile, and thank you for visiting. 👋
 
 <!--
 **JGLeejungHo/JGLeejungHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
