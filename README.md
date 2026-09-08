@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 ## 기계설계를 전공한 비전공자의 개발을 위한 경험  
    
 **- 🔭 - I worked on …**
-  
+
+**2025.11.29 Krafton Project: STACKGUYS** https://github.com/May-I-Game/stack-guys  
+
 **2023.7.8 GIGDC(Global Indie Game Development Contest)** https://github.com/JGLeejungHo/GIGDC_Busan  
   
 **2025.7.8 Krafton Jungle Miniproject** [https://github.com/JGLeejungHo/jungle10-tetris ](https://github.com/JGLeejungHo/jungle-tetris)  
-  
-**2025.11.29 Krafton Project: STACKGUYS** https://github.com/May-I-Game/stack-guys  
+
 
 - ## 💻 Languages & Tools I have experience with
 ![Unity](https://img.shields.io/badge/Unity-6.0_LTS-black?style=flat-square&logo=unity)
